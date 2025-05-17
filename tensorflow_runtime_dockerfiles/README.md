@@ -4,7 +4,7 @@ Simple Dockerfiles for running TensorFlow, with Jupyter and GPU variants.
 
 Maintainer: @angerson (TensorFlow, SIG Build)
 
-* * *
+* * * *
 
 These containers are built by an internal job at Google and published to
 [tensorflow/tensorflow](https://hub.docker.com/r/tensorflow/tensorflow) on
